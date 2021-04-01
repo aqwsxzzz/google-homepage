@@ -1,0 +1,143 @@
+#all {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+#top-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    width: 100%;
+    height: 60px;
+}
+#accounts {
+    position: relative;
+    top: 18px;
+    right: 15px;
+    color: rgba(0,0,0,0.87);
+}
+#apps {
+    position: relative;
+    top: 18px;
+    right: 30px;
+    color: rgba(0,0,0,0.87);
+}
+#images {
+    position: relative;
+    top: 18px;
+    right: 45px;
+    color: rgba(0,0,0,0.87);
+}
+#gmail {
+    position: relative;
+    top: 18px;
+    right: 60px;
+    color: rgba(0,0,0,0.87);
+}
+#logobox {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 290px;
+}
+#logo {
+    height: 92px;
+    width: 272px;
+    position: relative;
+    top: 60%;
+}
+#textbox {
+    width: 100%;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#text {
+    height: 44px;
+    width: 584px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+#mid-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 80px;
+}
+#button1 {
+    height: 36px;
+    position: relative;
+    top: 40px;
+    right: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+}
+#button2 {
+    height: 36px;
+    position: relative;
+    top: 40px;
+    left: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+}
+#mid-textbox {
+    height: 283px;
+    text-align: center;
+}
+#mid-text {
+    position: relative;
+    top: 40px;
+}
+#bottombox {
+    background: #f2f2f2;
+}
+#country {
+    border-bottom: 1px solid #dadce0;
+    color: rgba(0,0,0,.54);
+}
+#bottom-buttonsl {
+    display: flex;
+    flex-direction: row;
+}
+#about {
+    position: relative;
+    left: 20px;
+}
+#advertising {
+    position: relative;
+    left: 30px;
+}
+#business {
+    position: relative;
+    left: 40px;
+}
+#howsearchworks {
+    position: relative;
+    left: 50px;
+}
+#bottom-buttonsr {
+    display: flex;
+    flex-direction: row;
+}
+#settings {
+    position: relative;
+    right: 20px;
+}
+#terms {
+    position: relative;
+    right: 30px;
+}
+#privacy {
+    position: relative;
+    right: 40px;
+}
+#bottombox2 {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+}
+.bbuttons {
+    color: rgba(0,0,0,.54);
+}
