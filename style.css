@@ -17,7 +17,7 @@
     justify-content: space-between;
     align-items: center;
 }
-#accounts img {
+#accounts {
     color: rgba(0,0,0,0.87);
     width: 34px;
     height: 34px;
